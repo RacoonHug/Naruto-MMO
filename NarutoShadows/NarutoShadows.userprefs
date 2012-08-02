@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Script\FPS sasuke.js">
+    <Files>
+      <File FileName="Assets\Game\Script\FPS sasuke.js" Line="62" Column="36" />
+      <File FileName="Assets\Game\Script\WOW camera.js" Line="3" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\XRAY\Documents\NarutoShadows\Assets\Menu\LoginPanel.cs" line="259" />
+      <Breakpoint file="C:\Users\XRAY\Documents\NarutoShadows\Assets\Menu\LoginPanel.cs" line="249" />
+      <Breakpoint file="C:\Users\XRAY\Documents\NarutoShadows\Assets\Menu\LoginPanel.cs" line="250" />
+      <Breakpoint file="C:\Users\XRAY\Documents\NarutoShadows\Assets\Menu\LoginPanel.cs" line="252" />
+      <Breakpoint file="C:\Users\XRAY\Documents\NarutoShadows\Assets\Menu\LoginPanel.cs" line="254" />
+      <Breakpoint file="C:\Users\XRAY\Documents\NarutoShadows\Assets\Menu\LoginPanel.cs" line="253" />
+      <Breakpoint file="C:\Users\XRAY\Documents\NarutoShadows\Assets\Menu\LoginPanel.cs" line="255" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

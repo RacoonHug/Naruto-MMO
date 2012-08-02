@@ -1,0 +1,11 @@
+C:\Users\XRAY\Documents\NarutoShadows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\I18N.dll
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\I18N.West.dll
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\MySql.Data.dll
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\UnityEditor.dll
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\UnityEngine.dll
+C:\Users\XRAY\Documents\NarutoShadows\Temp\bin\Debug\nunit.framework.dll
+C:\Users\XRAY\Documents\NarutoShadows\obj\Debug\Assembly-CSharp.dll
+C:\Users\XRAY\Documents\NarutoShadows\obj\Debug\Assembly-CSharp.pdb

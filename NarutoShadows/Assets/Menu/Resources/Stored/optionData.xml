@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<optionData>
+  <musicvolume>81</musicvolume>
+  <voicevolume>51</voicevolume>
+  <fxvolume>92</fxvolume>
+  <graphicdetail>3</graphicdetail>
+  <jumpkey>Space</jumpkey>
+  <flashkey>LeftShift</flashkey>
+  <kunaikey>K</kunaikey>
+  <jutsukey>J</jutsukey>
+  <forwardkey>W</forwardkey>
+  <backkey>S</backkey>
+  <leftkey>A</leftkey>
+  <rightkey>D</rightkey>
+</optionData>
